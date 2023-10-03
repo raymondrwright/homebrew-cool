@@ -1,6 +1,6 @@
 cask "coooolbeans" do
   version "1.0.0"
-  sha256 "your-sha256-checksum-here"
+  sha256 "sha256sum coooolbeans"
 
   url "https://example.com/mysoftware_#{version}.dmg"
   name "coooolbeans"

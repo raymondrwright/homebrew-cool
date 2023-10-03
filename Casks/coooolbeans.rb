@@ -1,4 +1,4 @@
-cask "coooolbeanse" do
+cask "coooolbeans" do
   version "1.0.0"
   sha256 "your-sha256-checksum-here"
 

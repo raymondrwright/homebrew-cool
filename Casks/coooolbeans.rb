@@ -3,9 +3,9 @@ cask "coooolbeanse" do
   sha256 "your-sha256-checksum-here"
 
   url "https://example.com/mysoftware_#{version}.dmg"
-  name "My Software"
-  desc "A brief description of My Software"
-  homepage "https://mysoftwarewebsite.com"
+  name "coooolbeans"
+  desc "basic softwear"
+  homepage "https://coolbeans.com"
 
   livecheck do
     url :homepage
